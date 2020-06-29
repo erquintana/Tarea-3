@@ -6,10 +6,10 @@
 ## Solución:
 
 """ Imports """
-import numpy as np
+:import numpy as np
 
 
-import matplotlib.pyplot as plt  # para creación de gráfias variadas
+:import matplotlib.pyplot as plt  # para creación de gráfias variadas
 from mpl_toolkits.mplot3d import axes3d
 from matplotlib import cm
 from pandas import *  # usada para manejo del archivo lote en formato csv
